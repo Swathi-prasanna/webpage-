@@ -192,8 +192,12 @@ nav{
   overflow:hidden;
 
   background:#fff;
+   border-radius:30px;
 
   box-shadow:0 5px 20px rgba(0,0,0,0.1);
+}
+.content-card{
+  color:#00cfff;
 }
 
 .image-card img{
@@ -212,6 +216,7 @@ nav{
   color:#00bfff;
   margin-bottom:25px;
   font-size:20px;
+   border-radius:30px;
 }
 
 .content-card p{
@@ -327,7 +332,7 @@ nav{
 }
 
 .category-card{
-  width:300px;
+  width:350px;
   background:#fff;
   border-radius:20px;
   padding:25px;
@@ -467,7 +472,7 @@ nav{
 
 .browse-btn1{
   margin-top:40px;
-  padding:14px;
+  padding:20px;
   border:2px solid #00bfff;
   background:white;
   color:#00bfff;
